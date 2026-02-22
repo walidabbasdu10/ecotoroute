@@ -1,30 +1,45 @@
-# Ecotoroute 🚗
+# Ecotoroute 🚗🛣️
 
-Application Flutter pour calculer les coûts de péages autoroutiers en France (2026).
+Application Flutter multiplateforme pour calculer les coûts de péages autoroutiers en France (tarifs 2026).
 
-## 📱 Fonctionnalités
+## ✨ Fonctionnalités
 
-- **Interface intuitive** : Design moderne avec style navigation
-- **Recherche de lieux** : Trouvez facilement votre point de départ et d'arrivée parmi 199 sorties d'autoroutes
-- **Calcul de péage** : Obtenez instantanément le coût du trajet pour véhicule léger
-- **Échange de points** : Inversez facilement le départ et l'arrivée
+- **🎨 Interface moderne** : Design élégant avec gradient bleu style navigation
+- **📍 43,141 trajets** : Base de données complète des autoroutes françaises 2026
+- **🔍 696 points de péage** : Couverture exhaustive du réseau autoroutier
+- **🎯 Filtrage intelligent** : Les destinations s'adaptent automatiquement au point de départ
+- **⚡ Recherche rapide** : Trouvez instantanément votre lieu parmi des centaines de sorties
+- **💰 Calcul instantané** : Coût du péage pour véhicules légers en temps réel
+- **🔄 Échange de points** : Inversez facilement départ et arrivée
+- **🌐 Multiplateforme** : Windows, Android, Web, iOS, Linux, macOS
+
+## 📊 Données
+
+- **Source** : Tarifs autoroutes 2026 (toutes les autoroutes françaises)
+- **Trajets** : 43,141 itinéraires directs
+- **Points de péage** : 696 sorties uniques
+- **Normalisation** : Gestion intelligente des variations de noms (N°, codes /A###, formats différents)
 
 ## 🗂️ Structure du projet
 
 ```
 lib/
-├── main.dart                           # Point d'entrée de l'application
+├── main.dart                           # Point d'entrée avec diagnostics
 ├── models/
-│   └── toll_route.dart                 # Modèle de données pour les trajets
+│   └── toll_route.dart                 # Modèle de données des trajets
 ├── services/
-│   └── toll_data_service.dart          # Service de gestion des données
-└── screens/
-    ├── home_screen.dart                # Écran principal
-    └── location_selection_screen.dart  # Écran de sélection de lieu
+│   └── toll_data_service.dart          # Service de gestion et normalisation des données
+├── screens/
+│   ├── home_screen.dart                # Écran principal avec sélection départ/arrivée
+│   └── location_selection_screen.dart  # Écran de sélection avec recherche filtrée
+└── debug/
+    └── test_data.dart                  # Outils de diagnostic des données
 
 assets/
-├── toll_data_sample.json               # Données d'échantillon (873 trajets)
-└── locations.json                      # Liste des lieux (199 sorties)
+├── toll_data_full.json                 # Base complète (43,141 trajets - 3.07 MB)
+├── locations_clean.json                # Lieux normalisés (696 points)
+├── toll_data_sample.json               # Échantillon pour tests (873 trajets)
+└── locations_full.json                 # Liste brute originale
 ```
 
 ## 🚀 Installation
@@ -39,51 +54,78 @@ assets/
 ## ▶️ Lancer l'application
 
 ```bash
-# Android/iOS
-flutter run
+# Cloner le projet
+git clone https://github.com/VOTRE-USERNAME/ecotoroute.git
+cd ecotoroute
+
+# Installer les dépendances
+flutter pub get
+
+# Windows
+flutter run -d windows
+
+# Android
+flutter run -d android
 
 # Web
 flutter run -d chrome
 
-# Windows
-flutter run -d windows
+# iOS (macOS requis)
+flutter run -d ios
 ```
-
-## 📊 Données
-
-L'application utilise actuellement un échantillon de données des tarifs autoroutiers 2026 :
-- **873 trajets** couvrant 199 sorties d'autoroutes
-- Source : Tarifs officiels autoroutes 2026
-
-### Charger toutes les données
-
-Pour utiliser la totalité des 43 754 trajets, vous pouvez exporter l'intégralité du fichier Excel vers JSON :
-
-```powershell
-# Script PowerShell pour exporter toutes les données
-# (Voir le script complet dans les commentaires du code)
-```
-
-Puis modifiez `toll_data_service.dart` pour charger `toll_data.json` au lieu de `toll_data_sample.json`.
-
-## 🎨 Design
-
-- **Couleurs principales** : Bleu (#1976D2)
-- **Typographie** : Google Fonts (Poppins)
-- **Style** : Material Design 3 avec gradients modernes
-- **Interface** : Style navigation avec cartes de sélection
 
 ## 🔧 Technologies utilisées
 
-- **Flutter** : Framework UI multiplateforme
+- **Flutter 3.9.0+** : Framework UI multiplateforme
 - **Dart** : Langage de programmation
-- **google_fonts** : Polices personnalisées
+- **google_fonts** : Police Poppins
+- **Material Design 3** : Design system moderne
+
+## 🎨 Design
+
+- **Palette** : Gradient bleu (#1976D2 → #64B5F6)
+- **Typographie** : Poppins (Google Fonts)
+- **Interface** : Cartes de sélection style navigation
+- **Animations** : Transitions fluides
 
 ## 📝 Utilisation
 
 1. **Sélectionnez le point de départ** : Cliquez sur la carte "Départ"
-2. **Recherchez votre lieu** : Utilisez la barre de recherche
-3. **Sélectionnez le point d'arrivée** : Cliquez sur la carte "Arrivée"
+2. **Recherchez votre lieu** : Tapez dans la barre de recherche (ex: "Paris", "Lyon")
+3. **Sélectionnez le point d'arrivée** : La liste se filtre automatiquement selon le départ choisi
+4. **Consultez le tarif** : Le coût s'affiche instantanément
+
+## 🛠️ Corrections techniques
+
+L'application intègre plusieurs couches de normalisation pour garantir la cohérence des données :
+
+### Normalisation des noms de lieux
+La fonction `_getBaseName()` gère 5 types de variations :
+1. Codes autoroutiers : `/A131` → supprimé
+2. Numéros de sortie : `(17)` → supprimé
+3. Numéros de péage : `N°5` → supprimé
+4. Casse : `St-Gibrien` → `ST GIBRIEN`
+5. Tirets : `Saint-Romain` → `SAINT ROMAIN`
+
+### Résolution des bugs
+- ✅ Filtrage intelligent des destinations selon le départ
+- ✅ Gestion des formats incohérents entre UI et données
+- ✅ Élimination des doublons via Set
+- ✅ Validation avec 43,141 trajets en production
+
+Documentation détaillée dans `CORRECTION_NORMALISATION.md`
+
+## 📄 Licence
+
+Ce projet est un outil de calcul basé sur les tarifs publics des autoroutes françaises 2026.
+
+## 👤 Auteur
+
+Développé avec Flutter 💙
+
+---
+
+**Note** : Les tarifs affichés sont basés sur les données 2026 et concernent uniquement les véhicules légers (classe 1).
 4. **Consultez le tarif** : Le coût s'affiche automatiquement
 
 ## 🔄 Prochaines étapes
