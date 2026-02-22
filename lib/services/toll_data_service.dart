@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import '../models/toll_route.dart';
+import '../models/optimized_route.dart';
 
 class TollDataService {
   static final TollDataService _instance = TollDataService._internal();
@@ -132,5 +133,119 @@ class TollDataService {
       'fromLocations': fromLocations,
       'toLocations': toLocations,
     };
+  }
+
+  // Trouver le trajet optimal (direct ou avec 1 sortie/entrée)
+  OptimizedRoute? findOptimalRoute(String from, String to) {
+    try {
+      final fromBase = _getBaseName(from);
+      final toBase = _getBaseName(to);
+
+      // 1. Chercher le trajet direct
+      final directRoute = findRoute(from, to);
+      double? directPrice = directRoute?.price;
+
+      OptimizedRoute? bestRoute;
+
+      // Si trajet direct existe, le considérer comme solution initiale
+      if (directPrice != null) {
+        bestRoute = OptimizedRoute(
+          segments: [
+            RouteSegment(from: from, to: to, price: directPrice),
+          ],
+          totalPrice: directPrice,
+          isDirect: true,
+        );
+      }
+
+      // 2. Optimisation : Récupérer seulement les destinations possibles depuis 'from'
+      final possibleFromDest = <String>{};
+      for (var route in _routes) {
+        if (_getBaseName(route.from) == fromBase && _getBaseName(route.to) != fromBase) {
+          possibleFromDest.add(_getBaseName(route.to));
+        }
+      }
+
+      // 3. Récupérer seulement les origines possibles vers 'to'
+      final possibleToOrigin = <String>{};
+      for (var route in _routes) {
+        if (_getBaseName(route.to) == toBase && _getBaseName(route.from) != toBase) {
+          possibleToOrigin.add(_getBaseName(route.from));
+        }
+      }
+
+      // 4. Les points intermédiaires valides sont l'intersection des deux ensembles
+      final validIntermediates = possibleFromDest.intersection(possibleToOrigin);
+
+      // 5. Pour chaque point intermédiaire valide
+      for (final intermediateBase in validIntermediates) {
+        // Trouver un lieu avec ce nom de base dans _routes
+        TollRoute? segment1;
+        TollRoute? segment2;
+
+        // Chercher A → Intermédiaire
+        for (var route in _routes) {
+          if (_getBaseName(route.from) == fromBase && 
+              _getBaseName(route.to) == intermediateBase) {
+            segment1 = route;
+            break;
+          }
+        }
+
+        if (segment1 == null) continue;
+
+        // Chercher Intermédiaire → B
+        for (var route in _routes) {
+          if (_getBaseName(route.from) == intermediateBase && 
+              _getBaseName(route.to) == toBase) {
+            segment2 = route;
+            break;
+          }
+        }
+
+        if (segment2 == null) continue;
+
+        final totalPrice = segment1.price + segment2.price;
+
+        // Si c'est moins cher que le meilleur trouvé jusqu'à présent
+        if (bestRoute == null || totalPrice < bestRoute.totalPrice) {
+          bestRoute = OptimizedRoute(
+            segments: [
+              RouteSegment(from: from, to: segment1.to, price: segment1.price),
+              RouteSegment(from: segment2.from, to: to, price: segment2.price),
+            ],
+            totalPrice: totalPrice,
+            isDirect: false,
+          );
+        }
+      }
+
+      return bestRoute;
+    } catch (e) {
+      print('❌ Erreur dans findOptimalRoute: $e');
+      // En cas d'erreur, retourner le trajet direct s'il existe
+      final directRoute = findRoute(from, to);
+      if (directRoute != null) {
+        return OptimizedRoute(
+          segments: [
+            RouteSegment(from: from, to: to, price: directRoute.price),
+          ],
+          totalPrice: directRoute.price,
+          isDirect: true,
+        );
+      }
+      return null;
+    }
+  }
+
+  // Calculer l'économie réalisée
+  double? calculateSavings(String from, String to) {
+    final optimal = findOptimalRoute(from, to);
+    if (optimal == null) return null;
+
+    final direct = findRoute(from, to);
+    if (direct == null || optimal.isDirect) return 0.0;
+
+    return direct.price - optimal.totalPrice;
   }
 }

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../services/toll_data_service.dart';
+import '../models/optimized_route.dart';
 import 'location_selection_screen.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -14,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final TollDataService _dataService = TollDataService();
   String? _from;
   String? _to;
-  double? _toll;
+  OptimizedRoute? _optimizedRoute;
   bool _isLoading = true;
   String? _errorMessage;
 
@@ -82,7 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
           // Réinitialiser la destination si elle n'est plus valide
           if (_to != null && !_dataService.routeExists(result, _to!)) {
             _to = null;
-            _toll = null;
+            _optimizedRoute = null;
           }
         } else {
           _to = result;
@@ -95,7 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void _calculateToll() {
     if (_from != null && _to != null) {
       setState(() {
-        _toll = _dataService.calculateToll(_from!, _to!);
+        _optimizedRoute = _dataService.findOptimalRoute(_from!, _to!);
       });
     }
   }
@@ -115,7 +116,7 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       _from = null;
       _to = null;
-      _toll = null;
+      _optimizedRoute = null;
     });
   }
 
@@ -295,21 +296,28 @@ class _HomeScreenState extends State<HomeScreen> {
 
                         const SizedBox(height: 24),
 
-                        // Résultat du péage
-                        if (_toll != null) ...[
+                        // Résultat du péage optimisé
+                        if (_optimizedRoute != null) ...[
+                          // Carte principale avec le prix
                           Container(
                             padding: const EdgeInsets.all(24),
                             decoration: BoxDecoration(
                               gradient: LinearGradient(
                                 colors: [
-                                  const Color(0xFF1976D2),
-                                  Colors.blue[700]!,
+                                  _optimizedRoute!.isDirect 
+                                    ? const Color(0xFF1976D2)
+                                    : const Color(0xFF4CAF50),
+                                  _optimizedRoute!.isDirect
+                                    ? Colors.blue[700]!
+                                    : Colors.green[700]!,
                                 ],
                               ),
                               borderRadius: BorderRadius.circular(20),
                               boxShadow: [
                                 BoxShadow(
-                                  color: const Color(0xFF1976D2).withOpacity(0.3),
+                                  color: (_optimizedRoute!.isDirect 
+                                    ? const Color(0xFF1976D2) 
+                                    : const Color(0xFF4CAF50)).withOpacity(0.3),
                                   blurRadius: 20,
                                   offset: const Offset(0, 10),
                                 ),
@@ -317,16 +325,32 @@ class _HomeScreenState extends State<HomeScreen> {
                             ),
                             child: Column(
                               children: [
-                                Text(
-                                  'Coût du péage',
-                                  style: GoogleFonts.poppins(
-                                    fontSize: 16,
-                                    color: Colors.white.withOpacity(0.9),
-                                  ),
+                                Row(
+                                  mainAxisAlignment: MainAxisAlignment.center,
+                                  children: [
+                                    Icon(
+                                      _optimizedRoute!.isDirect 
+                                        ? Icons.route 
+                                        : Icons.savings_outlined,
+                                      color: Colors.white,
+                                      size: 24,
+                                    ),
+                                    const SizedBox(width: 8),
+                                    Text(
+                                      _optimizedRoute!.isDirect 
+                                        ? 'Trajet direct'
+                                        : 'Trajet optimisé',
+                                      style: GoogleFonts.poppins(
+                                        fontSize: 16,
+                                        color: Colors.white.withOpacity(0.9),
+                                        fontWeight: FontWeight.w500,
+                                      ),
+                                    ),
+                                  ],
                                 ),
-                                const SizedBox(height: 8),
+                                const SizedBox(height: 12),
                                 Text(
-                                  '${_toll!.toStringAsFixed(2)} €',
+                                  '${_optimizedRoute!.totalPrice.toStringAsFixed(2)} €',
                                   style: GoogleFonts.poppins(
                                     fontSize: 48,
                                     fontWeight: FontWeight.bold,
@@ -344,6 +368,120 @@ class _HomeScreenState extends State<HomeScreen> {
                               ],
                             ),
                           ),
+
+                          // Détails du trajet si non direct
+                          if (!_optimizedRoute!.isDirect) ...[
+                            const SizedBox(height: 16),
+                            Container(
+                              padding: const EdgeInsets.all(16),
+                              decoration: BoxDecoration(
+                                color: Colors.green[50],
+                                borderRadius: BorderRadius.circular(16),
+                                border: Border.all(color: Colors.green[200]!),
+                              ),
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Row(
+                                    children: [
+                                      Icon(Icons.info_outline, 
+                                        color: Colors.green[700], 
+                                        size: 20),
+                                      const SizedBox(width: 8),
+                                      Text(
+                                        'Itinéraire détaillé',
+                                        style: GoogleFonts.poppins(
+                                          fontSize: 14,
+                                          fontWeight: FontWeight.w600,
+                                          color: Colors.green[900],
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                  const SizedBox(height: 12),
+                                  ..._optimizedRoute!.segments.asMap().entries.map((entry) {
+                                    final index = entry.key;
+                                    final segment = entry.value;
+                                    return Padding(
+                                      padding: const EdgeInsets.only(bottom: 8),
+                                      child: Row(
+                                        children: [
+                                          Container(
+                                            width: 24,
+                                            height: 24,
+                                            decoration: BoxDecoration(
+                                              color: Colors.green[700],
+                                              shape: BoxShape.circle,
+                                            ),
+                                            child: Center(
+                                              child: Text(
+                                                '${index + 1}',
+                                                style: GoogleFonts.poppins(
+                                                  fontSize: 12,
+                                                  fontWeight: FontWeight.bold,
+                                                  color: Colors.white,
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                          const SizedBox(width: 12),
+                                          Expanded(
+                                            child: Column(
+                                              crossAxisAlignment: CrossAxisAlignment.start,
+                                              children: [
+                                                Text(
+                                                  '${segment.from} → ${segment.to}',
+                                                  style: GoogleFonts.poppins(
+                                                    fontSize: 13,
+                                                    color: Colors.grey[800],
+                                                    fontWeight: FontWeight.w500,
+                                                  ),
+                                                ),
+                                                Text(
+                                                  '${segment.price.toStringAsFixed(2)} €',
+                                                  style: GoogleFonts.poppins(
+                                                    fontSize: 12,
+                                                    color: Colors.grey[600],
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    );
+                                  }).toList(),
+                                  // Afficher l'économie si applicable
+                                  if (_optimizedRoute!.segments.length > 1) ...[
+                                    const Divider(height: 24),
+                                    () {
+                                      final savings = _dataService.calculateSavings(_from!, _to!);
+                                      if (savings != null && savings > 0) {
+                                        return Row(
+                                          children: [
+                                            Icon(Icons.trending_down, 
+                                              color: Colors.green[700], 
+                                              size: 20),
+                                            const SizedBox(width: 8),
+                                            Text(
+                                              'Économie : ${savings.toStringAsFixed(2)} €',
+                                              style: GoogleFonts.poppins(
+                                                fontSize: 14,
+                                                fontWeight: FontWeight.w600,
+                                                color: Colors.green[900],
+                                              ),
+                                            ),
+                                          ],
+                                        );
+                                      }
+                                      return const SizedBox.shrink();
+                                    }(),
+                                  ],
+                                ],
+                              ),
+                            ),
+                          ],
+                          
                           const SizedBox(height: 16),
                           ElevatedButton.icon(
                             onPressed: _reset,
