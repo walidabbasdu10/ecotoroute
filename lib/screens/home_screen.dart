@@ -5,6 +5,7 @@ import '../models/optimized_route.dart';
 import 'location_selection_screen.dart';
 import 'toll_gate_map_screen.dart';
 import 'overpass_api_test_screen.dart';
+import 'demo_overpass_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -270,6 +271,31 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ),
                       ],
+                    ),
+                    const SizedBox(height: 8),
+                    // Bouton démo
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const DemoOverpassScreen(),
+                          ),
+                        );
+                      },
+                      icon: const Icon(Icons.play_circle, size: 18),
+                      label: const Text(
+                        '🚀 Démo API Overpass (Tests rapides)',
+                        style: TextStyle(fontSize: 13),
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.white,
+                        foregroundColor: Colors.orange[700],
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                      ),
                     ),
                   ],
                 ),

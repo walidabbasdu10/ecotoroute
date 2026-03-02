@@ -23,4 +23,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/toll_data_full.json
+    - assets/toll_nodes.json
+    - assets/toll_routes.json
     - assets/locations_clean.json

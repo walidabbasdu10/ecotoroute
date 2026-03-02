@@ -1,0 +1,4808 @@
+﻿[
+    {
+        "id":  "P001",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Rochefort nord"
+    },
+    {
+        "id":  "P002",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tonnay‑Charente"
+    },
+    {
+        "id":  "P003",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cabariot"
+    },
+    {
+        "id":  "P004",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saintes"
+    },
+    {
+        "id":  "P005",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Pons"
+    },
+    {
+        "id":  "P006",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mirambeau"
+    },
+    {
+        "id":  "P007",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Aubin‑de‑Blaye"
+    },
+    {
+        "id":  "P008",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Virsac"
+    },
+    {
+        "id":  "P009",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Libourne / Saint‑Antoine"
+    },
+    {
+        "id":  "P010",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Arveyres"
+    },
+    {
+        "id":  "P011",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Brède"
+    },
+    {
+        "id":  "P012",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Langon"
+    },
+    {
+        "id":  "P013",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Réole"
+    },
+    {
+        "id":  "P014",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Marmande"
+    },
+    {
+        "id":  "P015",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Aiguillon"
+    },
+    {
+        "id":  "P016",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Agen"
+    },
+    {
+        "id":  "P017",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Valence‑d’Agen"
+    },
+    {
+        "id":  "P018",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Castelsarrasin"
+    },
+    {
+        "id":  "P019",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montauban nord"
+    },
+    {
+        "id":  "P020",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montauban sud"
+    },
+    {
+        "id":  "P021",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Caussade"
+    },
+    {
+        "id":  "P022",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cahors sud"
+    },
+    {
+        "id":  "P023",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cahors nord"
+    },
+    {
+        "id":  "P024",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Labastide‑Murat"
+    },
+    {
+        "id":  "P025",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Souillac"
+    },
+    {
+        "id":  "P026",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Brive‑la‑Gaillarde"
+    },
+    {
+        "id":  "P027",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Terrasson"
+    },
+    {
+        "id":  "P028",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Bachellerie"
+    },
+    {
+        "id":  "P029",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Thenon"
+    },
+    {
+        "id":  "P030",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Périgueux est"
+    },
+    {
+        "id":  "P031",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Périgueux ouest"
+    },
+    {
+        "id":  "P032",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mussidan"
+    },
+    {
+        "id":  "P033",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montpon‑Ménestérol"
+    },
+    {
+        "id":  "P034",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Coutras"
+    },
+    {
+        "id":  "P035",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Libourne nord"
+    },
+    {
+        "id":  "P036",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Libourne ouest"
+    },
+    {
+        "id":  "P037",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Fouillouse"
+    },
+    {
+        "id":  "P038",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Andrézieux‑Bouthéon"
+    },
+    {
+        "id":  "P039",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bignon"
+    },
+    {
+        "id":  "P040",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vouillé"
+    },
+    {
+        "id":  "P041",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Rochelle‑Niort sud"
+    },
+    {
+        "id":  "P042",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Rochefort ouest"
+    },
+    {
+        "id":  "P043",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ALLAINES"
+    },
+    {
+        "id":  "P044",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ALLAINVILLE"
+    },
+    {
+        "id":  "P045",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMBERIEU"
+    },
+    {
+        "id":  "P046",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMBOISE CH. RENAULT"
+    },
+    {
+        "id":  "P047",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ARLAY"
+    },
+    {
+        "id":  "P048",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ARTENAY"
+    },
+    {
+        "id":  "P049",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AUXERRE NORD"
+    },
+    {
+        "id":  "P050",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AUXERRE SUD"
+    },
+    {
+        "id":  "P051",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AUXY"
+    },
+    {
+        "id":  "P052",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AVALLON"
+    },
+    {
+        "id":  "P053",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BALAN"
+    },
+    {
+        "id":  "P054",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BAUME‑LES‑DAMES"
+    },
+    {
+        "id":  "P055",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUMONT"
+    },
+    {
+        "id":  "P056",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUNE NORD"
+    },
+    {
+        "id":  "P057",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUNE SUD"
+    },
+    {
+        "id":  "P058",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUPONT"
+    },
+    {
+        "id":  "P059",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUREPAIRE"
+    },
+    {
+        "id":  "P060",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BELLEGARDE"
+    },
+    {
+        "id":  "P061",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BELLEVILLE S/SAONE"
+    },
+    {
+        "id":  "P062",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BERSAILLIN"
+    },
+    {
+        "id":  "P063",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BESANCON EST"
+    },
+    {
+        "id":  "P064",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BESANCON NORD"
+    },
+    {
+        "id":  "P065",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BESANCON OUEST"
+    },
+    {
+        "id":  "P066",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEYNOST"
+    },
+    {
+        "id":  "P067",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BIERRE‑LES‑SEMUR"
+    },
+    {
+        "id":  "P068",
+        "latitude":  "",
+        "autoroute":  "A85",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BLERE"
+    },
+    {
+        "id":  "P069",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOURG NORD"
+    },
+    {
+        "id":  "P070",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOURG SUD"
+    },
+    {
+        "id":  "P071",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOURGES (LIM.CONC.)"
+    },
+    {
+        "id":  "P072",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BULGNEVILLE"
+    },
+    {
+        "id":  "P073",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHALON CENTRE"
+    },
+    {
+        "id":  "P074",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHALON NORD"
+    },
+    {
+        "id":  "P075",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHALON SUD"
+    },
+    {
+        "id":  "P076",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHALONS LA VEUVE"
+    },
+    {
+        "id":  "P077",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHALONS MOURMELON"
+    },
+    {
+        "id":  "P078",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Charmont Sous Barbuise (Transition)"
+    },
+    {
+        "id":  "P079",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHATEAU‑THIERRY"
+    },
+    {
+        "id":  "P080",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHATENOIS"
+    },
+    {
+        "id":  "P081",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHATILLON‑LABORDE"
+    },
+    {
+        "id":  "P082",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHAUMONT‑SEMOUTIERS"
+    },
+    {
+        "id":  "P083",
+        "latitude":  "",
+        "autoroute":  "A85",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHEMERY"
+    },
+    {
+        "id":  "P084",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHOISEY"
+    },
+    {
+        "id":  "P085",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CLERMONT‑BARRIERE"
+    },
+    {
+        "id":  "P086",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "COLOMBEY‑LES‑BELLES"
+    },
+    {
+        "id":  "P087",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "COMBRONDE"
+    },
+    {
+        "id":  "P088",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "COURTENAY"
+    },
+    {
+        "id":  "P089",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CROTTET"
+    },
+    {
+        "id":  "P090",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DEUX CHAISES"
+    },
+    {
+        "id":  "P091",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DIJON SUD"
+    },
+    {
+        "id":  "P092",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DIJON‑ARC S/TILLE"
+    },
+    {
+        "id":  "P093",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DIJON‑CRIMOLOIS"
+    },
+    {
+        "id":  "P094",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DOLE"
+    },
+    {
+        "id":  "P095",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DORDIVES"
+    },
+    {
+        "id":  "P096",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DORMANS"
+    },
+    {
+        "id":  "P097",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "EGLETONS"
+    },
+    {
+        "id":  "P098",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ELOISE"
+    },
+    {
+        "id":  "P099",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ESCRENNES"
+    },
+    {
+        "id":  "P100",
+        "latitude":  "",
+        "autoroute":  "A85",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ESVRES"
+    },
+    {
+        "id":  "P101",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FEILLENS"
+    },
+    {
+        "id":  "P102",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FLEURY‑EN‑BIERE"
+    },
+    {
+        "id":  "P103",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FONTAINE‑LARIVIERE"
+    },
+    {
+        "id":  "P104",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FONTAINEBLEAU"
+    },
+    {
+        "id":  "P105",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FONTENAY / LOING"
+    },
+    {
+        "id":  "P106",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FORET DE TRONCAIS"
+    },
+    {
+        "id":  "P107",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FORGES"
+    },
+    {
+        "id":  "P108",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GANNAT"
+    },
+    {
+        "id":  "P109",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GENAY"
+    },
+    {
+        "id":  "P110",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GENDREY"
+    },
+    {
+        "id":  "P111",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GERZAT‑VILLE"
+    },
+    {
+        "id":  "P112",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GIDY"
+    },
+    {
+        "id":  "P113",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GONDREVILLE A77/N"
+    },
+    {
+        "id":  "P114",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GONDREVILLE A77/S"
+    },
+    {
+        "id":  "P115",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GROISSIAT"
+    },
+    {
+        "id":  "P116",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GYE"
+    },
+    {
+        "id":  "P117",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "JARNY"
+    },
+    {
+        "id":  "P118",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "JOIGNY"
+    },
+    {
+        "id":  "P119",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "L’ISLE‑S/LE‑DOUBS"
+    },
+    {
+        "id":  "P120",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA BOISSE"
+    },
+    {
+        "id":  "P121",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA BOISSE ‑ MONTLUEL"
+    },
+    {
+        "id":  "P122",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA COTIERE"
+    },
+    {
+        "id":  "P123",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA CROIX‑CHALON"
+    },
+    {
+        "id":  "P124",
+        "latitude":  "",
+        "autoroute":  "A13",
+        "reseau":  "SANEF APN",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA FOLIE‑B/PARIS"
+    },
+    {
+        "id":  "P125",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LAMOTTE‑BEUVRON"
+    },
+    {
+        "id":  "P126",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LANGRES NORD"
+    },
+    {
+        "id":  "P127",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LANGRES SUD"
+    },
+    {
+        "id":  "P128",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LE MIROIR"
+    },
+    {
+        "id":  "P129",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LE TOURNEAU"
+    },
+    {
+        "id":  "P130",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LES EPRUNES"
+    },
+    {
+        "id":  "P131",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LUSSE"
+    },
+    {
+        "id":  "P132",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MACON CENTRE"
+    },
+    {
+        "id":  "P133",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MACON NORD"
+    },
+    {
+        "id":  "P134",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MACON SUD"
+    },
+    {
+        "id":  "P135",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MAGNANT"
+    },
+    {
+        "id":  "P136",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MANZAT"
+    },
+    {
+        "id":  "P137",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MAROLLES‑SUR‑SEINE"
+    },
+    {
+        "id":  "P138",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MER"
+    },
+    {
+        "id":  "P139",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MEUNG SUR LOIRE"
+    },
+    {
+        "id":  "P140",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MIONNAY"
+    },
+    {
+        "id":  "P141",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONT CHOISY"
+    },
+    {
+        "id":  "P142",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTIGNY‑LE‑ROI"
+    },
+    {
+        "id":  "P143",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTLUCON"
+    },
+    {
+        "id":  "P144",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTMARAULT"
+    },
+    {
+        "id":  "P145",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTREUIL (REIMS)"
+    },
+    {
+        "id":  "P146",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTREUIL AUX LIONS"
+    },
+    {
+        "id":  "P147",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MYENNES"
+    },
+    {
+        "id":  "P148",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NEMOURS"
+    },
+    {
+        "id":  "P149",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NITRY"
+    },
+    {
+        "id":  "P150",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NUITS‑ST‑GEORGES"
+    },
+    {
+        "id":  "P151",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "OLIVET"
+    },
+    {
+        "id":  "P152",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ORLEANS‑CENTRE"
+    },
+    {
+        "id":  "P153",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ORLEANS‑NORD"
+    },
+    {
+        "id":  "P154",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PEROUGES"
+    },
+    {
+        "id":  "P155",
+        "latitude":  "",
+        "autoroute":  "A42",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PONT D’AIN"
+    },
+    {
+        "id":  "P156",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REPLONGES"
+    },
+    {
+        "id":  "P157",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "RIOM"
+    },
+    {
+        "id":  "P158",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ROBECOURT"
+    },
+    {
+        "id":  "P159",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT GENIS"
+    },
+    {
+        "id":  "P160",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT MAURICE"
+    },
+    {
+        "id":  "P161",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT THIBAULT"
+    },
+    {
+        "id":  "P162",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SALBRIS"
+    },
+    {
+        "id":  "P163",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAVIGNY / CLAIRIS"
+    },
+    {
+        "id":  "P164",
+        "latitude":  "",
+        "autoroute":  "A36",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SEURRE"
+    },
+    {
+        "id":  "P165",
+        "latitude":  "",
+        "autoroute":  "A39",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SOIRANS"
+    },
+    {
+        "id":  "P166",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SOMMESOUS"
+    },
+    {
+        "id":  "P167",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST AMAND‑MONTROND"
+    },
+    {
+        "id":  "P168",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST ETIENNE AU TEMPLE"
+    },
+    {
+        "id":  "P169",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST GERMAIN LES VERGNE"
+    },
+    {
+        "id":  "P170",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST GIBRIEN"
+    },
+    {
+        "id":  "P171",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST HILAIRE"
+    },
+    {
+        "id":  "P172",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST JULIEN SANCY"
+    },
+    {
+        "id":  "P173",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST MARTIN‑DU‑FRESNE"
+    },
+    {
+        "id":  "P174",
+        "latitude":  "",
+        "autoroute":  "A85",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST ROMAIN SUR CHER"
+    },
+    {
+        "id":  "P175",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST‑DENIS‑LES‑SENS"
+    },
+    {
+        "id":  "P176",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST‑GERMAIN‑LAXIS"
+    },
+    {
+        "id":  "P177",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "STE MENEHOULD"
+    },
+    {
+        "id":  "P178",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SYLANS"
+    },
+    {
+        "id":  "P179",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "THENNELIERES"
+    },
+    {
+        "id":  "P180",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TIL CHATEL"
+    },
+    {
+        "id":  "P181",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TORVILLIERS"
+    },
+    {
+        "id":  "P182",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TOURNUS"
+    },
+    {
+        "id":  "P183",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TOURS‑C/MONNAIE"
+    },
+    {
+        "id":  "P184",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TULLE EST"
+    },
+    {
+        "id":  "P185",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TULLE NORD"
+    },
+    {
+        "id":  "P186",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "URY"
+    },
+    {
+        "id":  "P187",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "USSEL EST"
+    },
+    {
+        "id":  "P188",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "USSEL OUEST"
+    },
+    {
+        "id":  "P189",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VAL DE LOING‑BARRIERE"
+    },
+    {
+        "id":  "P190",
+        "latitude":  "",
+        "autoroute":  "A77",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VAL DE LOING‑SOUPPES"
+    },
+    {
+        "id":  "P191",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VAL DE SAONE"
+    },
+    {
+        "id":  "P192",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VALLEE DE L\u0027AUBE"
+    },
+    {
+        "id":  "P193",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VATRY"
+    },
+    {
+        "id":  "P194",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VEIGNE"
+    },
+    {
+        "id":  "P195",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VERDUN"
+    },
+    {
+        "id":  "P196",
+        "latitude":  "",
+        "autoroute":  "A719",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VICHY"
+    },
+    {
+        "id":  "P197",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VIERZON‑EST"
+    },
+    {
+        "id":  "P198",
+        "latitude":  "",
+        "autoroute":  "A71",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VIERZON‑NORD"
+    },
+    {
+        "id":  "P199",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLE SOUS LAFERTE"
+    },
+    {
+        "id":  "P200",
+        "latitude":  "",
+        "autoroute":  "A85",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLEFRANCHE S/ CHER"
+    },
+    {
+        "id":  "P201",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLEFRANCHE‑LIMAS"
+    },
+    {
+        "id":  "P202",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLEFRANCHE‑NORD"
+    },
+    {
+        "id":  "P203",
+        "latitude":  "",
+        "autoroute":  "A6",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLEFRANCHE‑VILLE"
+    },
+    {
+        "id":  "P204",
+        "latitude":  "",
+        "autoroute":  "A19",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLENEUVE‑DONDAGRE"
+    },
+    {
+        "id":  "P205",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VIRIAT"
+    },
+    {
+        "id":  "P206",
+        "latitude":  "",
+        "autoroute":  "A40",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VIRY"
+    },
+    {
+        "id":  "P207",
+        "latitude":  "",
+        "autoroute":  "A5",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VULAINES"
+    },
+    {
+        "id":  "P208",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VULCANIA BROMONT"
+    },
+    {
+        "id":  "P209",
+        "latitude":  "",
+        "autoroute":  "A28",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ABBEVILLE EST"
+    },
+    {
+        "id":  "P210",
+        "latitude":  "",
+        "autoroute":  "A28",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ABBEVILLE NORD"
+    },
+    {
+        "id":  "P211",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AIRE‑SUR‑LA‑LYS"
+    },
+    {
+        "id":  "P212",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ALBERT"
+    },
+    {
+        "id":  "P213",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMIENS EST (Jules Verne)"
+    },
+    {
+        "id":  "P214",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMIENS NORD"
+    },
+    {
+        "id":  "P215",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMIENS OUEST"
+    },
+    {
+        "id":  "P216",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AMIENS SUD (Dury)"
+    },
+    {
+        "id":  "P217",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ARRAS EST"
+    },
+    {
+        "id":  "P218",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ARRAS NORD"
+    },
+    {
+        "id":  "P219",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ATHIES"
+    },
+    {
+        "id":  "P220",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "AUMALE"
+    },
+    {
+        "id":  "P221",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BAPAUME"
+    },
+    {
+        "id":  "P222",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUVAIS CENTRE"
+    },
+    {
+        "id":  "P223",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUVAIS NORD"
+    },
+    {
+        "id":  "P224",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BERCK"
+    },
+    {
+        "id":  "P225",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BETHUNE"
+    },
+    {
+        "id":  "P226",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOULAY"
+    },
+    {
+        "id":  "P227",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOULOGNE EST (Herquelingue)"
+    },
+    {
+        "id":  "P228",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOULOGNE SUD"
+    },
+    {
+        "id":  "P229",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CALAIS (Setques)"
+    },
+    {
+        "id":  "P230",
+        "latitude":  "",
+        "autoroute":  "A2",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CAMBRAI"
+    },
+    {
+        "id":  "P231",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHÂLONS‑EN‑CHAMPAGNE / LA VEUVE"
+    },
+    {
+        "id":  "P232",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHÂTEAU‑THIERRY"
+    },
+    {
+        "id":  "P233",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CLERMONT‑EN‑ARGONNE"
+    },
+    {
+        "id":  "P234",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "COMPIEGNE OUEST"
+    },
+    {
+        "id":  "P235",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "COUTEVROULT"
+    },
+    {
+        "id":  "P236",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ESSERTAUX"
+    },
+    {
+        "id":  "P237",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ETAPLES / LE TOUQUET"
+    },
+    {
+        "id":  "P238",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FAREBERSVILLER"
+    },
+    {
+        "id":  "P239",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FRESNES‑EN‑WOËVRE"
+    },
+    {
+        "id":  "P240",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FREYMING‑MERLEBACH"
+    },
+    {
+        "id":  "P241",
+        "latitude":  "",
+        "autoroute":  "A320",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GARE TGV"
+    },
+    {
+        "id":  "P242",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "GUIGNICOURT"
+    },
+    {
+        "id":  "P243",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "HARDIVILLERS"
+    },
+    {
+        "id":  "P244",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "HOCHFELDEN"
+    },
+    {
+        "id":  "P245",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "HORDAIN"
+    },
+    {
+        "id":  "P246",
+        "latitude":  "",
+        "autoroute":  "A2",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA CÔTE PICARDE"
+    },
+    {
+        "id":  "P247",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LAFERE"
+    },
+    {
+        "id":  "P248",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LAON"
+    },
+    {
+        "id":  "P249",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LIEVIN"
+    },
+    {
+        "id":  "P250",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LILLE / DOURGES (Fresnes)"
+    },
+    {
+        "id":  "P251",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LILLERS"
+    },
+    {
+        "id":  "P252",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "L\u0027ISLE‑ADAM (Amblainville)"
+    },
+    {
+        "id":  "P253",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MARQUION"
+    },
+    {
+        "id":  "P254",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MASNIERES"
+    },
+    {
+        "id":  "P255",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MEAUX / CRECY"
+    },
+    {
+        "id":  "P256",
+        "latitude":  "",
+        "autoroute":  "A2",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MÉRU"
+    },
+    {
+        "id":  "P257",
+        "latitude":  "",
+        "autoroute":  "A140",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "METZ"
+    },
+    {
+        "id":  "P258",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONT‑CHOISY"
+    },
+    {
+        "id":  "P259",
+        "latitude":  "",
+        "autoroute":  "A31",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "MONTREUIL‑AUX‑LIONS"
+    },
+    {
+        "id":  "P260",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NEUFCHÂTEL‑EN‑BRAY"
+    },
+    {
+        "id":  "P261",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NEUFCHÂTEL‑HARDELOT"
+    },
+    {
+        "id":  "P262",
+        "latitude":  "",
+        "autoroute":  "A28",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NOEUX‑LES‑MINES"
+    },
+    {
+        "id":  "P263",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PARIS / NOISY‑LE‑GRAND (Coutevroult)"
+    },
+    {
+        "id":  "P264",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PARIS / ROISSY (Chamant)"
+    },
+    {
+        "id":  "P267",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PERONNE / VALLÉE DE LA SOMME"
+    },
+    {
+        "id":  "P268",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PHALSBOURG"
+    },
+    {
+        "id":  "P269",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "POIX‑DE‑PICARDIE"
+    },
+    {
+        "id":  "P270",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PONT‑SAINTE‑MAXENCE"
+    },
+    {
+        "id":  "P271",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PUTTELANGE"
+    },
+    {
+        "id":  "P272",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REIMS (Courcy)"
+    },
+    {
+        "id":  "P273",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REIMS NORD (Ormes)"
+    },
+    {
+        "id":  "P274",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REIMS OUEST (Thillois)"
+    },
+    {
+        "id":  "P275",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REIMS SUD"
+    },
+    {
+        "id":  "P276",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "REIMS EST (Taissy)"
+    },
+    {
+        "id":  "P277",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "RESSONS"
+    },
+    {
+        "id":  "P278",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ROYE"
+    },
+    {
+        "id":  "P279",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑AVOLD"
+    },
+    {
+        "id":  "P280",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINTE‑MARIE‑AUX‑CHÊNES"
+    },
+    {
+        "id":  "P281",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINTE‑MENEHOULD"
+    },
+    {
+        "id":  "P282",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑ÉTIENNE‑AU‑TEMPLE"
+    },
+    {
+        "id":  "P283",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑GIBRIEN"
+    },
+    {
+        "id":  "P284",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑OMER"
+    },
+    {
+        "id":  "P285",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑QUENTIN NORD"
+    },
+    {
+        "id":  "P286",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAINT‑QUENTIN SUD"
+    },
+    {
+        "id":  "P287",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SALOUËL"
+    },
+    {
+        "id":  "P288",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SARREGUEMINES"
+    },
+    {
+        "id":  "P289",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SARRE‑UNION"
+    },
+    {
+        "id":  "P290",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SAVERNE"
+    },
+    {
+        "id":  "P291",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "SENLIS"
+    },
+    {
+        "id":  "P292",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST‑JEAN‑LES‑DEUX‑JUMEAUX"
+    },
+    {
+        "id":  "P293",
+        "latitude":  "",
+        "autoroute":  "A1",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "STRASBOURG (Schwindratzheim)"
+    },
+    {
+        "id":  "P294",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VALLÉE DE LA NIÈVRE"
+    },
+    {
+        "id":  "P295",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VALLÉE DE L’AUBE"
+    },
+    {
+        "id":  "P296",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VILLERS‑BRETONNEUX"
+    },
+    {
+        "id":  "P297",
+        "latitude":  "",
+        "autoroute":  "A16",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "VOIE SACRÉE"
+    },
+    {
+        "id":  "P298",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bifurcation A46S/A43"
+    },
+    {
+        "id":  "P299",
+        "latitude":  "",
+        "autoroute":  "A26",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Condrieu"
+    },
+    {
+        "id":  "P300",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vienne sud"
+    },
+    {
+        "id":  "P301",
+        "latitude":  "",
+        "autoroute":  "A29",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chanas"
+    },
+    {
+        "id":  "P302",
+        "latitude":  "",
+        "autoroute":  "A4",
+        "reseau":  "SANEF",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tain"
+    },
+    {
+        "id":  "P303",
+        "latitude":  "",
+        "autoroute":  "A46 / A43",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Valence nord"
+    },
+    {
+        "id":  "P304",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Valence sud"
+    },
+    {
+        "id":  "P305",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Loriol"
+    },
+    {
+        "id":  "P306",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montélimar nord"
+    },
+    {
+        "id":  "P307",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montélimar sud"
+    },
+    {
+        "id":  "P308",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bollène"
+    },
+    {
+        "id":  "P309",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Orange centre"
+    },
+    {
+        "id":  "P310",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Orange sud"
+    },
+    {
+        "id":  "P311",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Avignon nord"
+    },
+    {
+        "id":  "P312",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Avignon sud"
+    },
+    {
+        "id":  "P313",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cavaillon"
+    },
+    {
+        "id":  "P314",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sénas"
+    },
+    {
+        "id":  "P315",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Salon nord"
+    },
+    {
+        "id":  "P316",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Salon sud"
+    },
+    {
+        "id":  "P317",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Grans"
+    },
+    {
+        "id":  "P318",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Salon ouest"
+    },
+    {
+        "id":  "P319",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "St‑Martin‑de‑Crau"
+    },
+    {
+        "id":  "P320",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "St‑Martin‑de‑Crau est"
+    },
+    {
+        "id":  "P321",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lançon (Aix/Berre)"
+    },
+    {
+        "id":  "P322",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Rognac Berre"
+    },
+    {
+        "id":  "P323",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Aix ouest"
+    },
+    {
+        "id":  "P324",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Roquemaure"
+    },
+    {
+        "id":  "P325",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Remoulins"
+    },
+    {
+        "id":  "P326",
+        "latitude":  "",
+        "autoroute":  "A7 / A54",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Nîmes est"
+    },
+    {
+        "id":  "P327",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Nîmes ouest"
+    },
+    {
+        "id":  "P328",
+        "latitude":  "",
+        "autoroute":  "A8",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Nîmes centre"
+    },
+    {
+        "id":  "P329",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Nîmes Garons"
+    },
+    {
+        "id":  "P330",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Arles"
+    },
+    {
+        "id":  "P331",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Gallargues"
+    },
+    {
+        "id":  "P332",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lunel"
+    },
+    {
+        "id":  "P333",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Baillargues"
+    },
+    {
+        "id":  "P334",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vendargues"
+    },
+    {
+        "id":  "P335",
+        "latitude":  "",
+        "autoroute":  "A54",
+        "reseau":  "ESCOTA",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montpellier est"
+    },
+    {
+        "id":  "P336",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montpellier sud"
+    },
+    {
+        "id":  "P337",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montpellier ouest"
+    },
+    {
+        "id":  "P338",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "St‑Jean‑de‑Védas"
+    },
+    {
+        "id":  "P339",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "St‑Priest centre"
+    },
+    {
+        "id":  "P340",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mions"
+    },
+    {
+        "id":  "P341",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vénissieux"
+    },
+    {
+        "id":  "P342",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Marennes"
+    },
+    {
+        "id":  "P343",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Communay"
+    },
+    {
+        "id":  "P344",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bifurcation A46S/A7/A47"
+    },
+    {
+        "id":  "P345",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chasse sud"
+    },
+    {
+        "id":  "P346",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Péage de Vienne"
+    },
+    {
+        "id":  "P347",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Auberives"
+    },
+    {
+        "id":  "P348",
+        "latitude":  "",
+        "autoroute":  "A46",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Orange nord"
+    },
+    {
+        "id":  "P349",
+        "latitude":  "",
+        "autoroute":  "A46 / A7 / A47",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Coudoux"
+    },
+    {
+        "id":  "P350",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sète"
+    },
+    {
+        "id":  "P351",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Agde Pézenas"
+    },
+    {
+        "id":  "P352",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Béziers‑Cabrials"
+    },
+    {
+        "id":  "P353",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Béziers ouest"
+    },
+    {
+        "id":  "P354",
+        "latitude":  "",
+        "autoroute":  "A7",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Narbonne est"
+    },
+    {
+        "id":  "P355",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Narbonne sud"
+    },
+    {
+        "id":  "P356",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sigean"
+    },
+    {
+        "id":  "P357",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Leucate"
+    },
+    {
+        "id":  "P358",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Perpignan nord"
+    },
+    {
+        "id":  "P359",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Perpignan sud"
+    },
+    {
+        "id":  "P360",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Boulou (système fermé)"
+    },
+    {
+        "id":  "P361",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Perthus"
+    },
+    {
+        "id":  "P362",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Frontière Espagnole"
+    },
+    {
+        "id":  "P363",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lezignan"
+    },
+    {
+        "id":  "P364",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Carcassonne est"
+    },
+    {
+        "id":  "P365",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Carcassonne ouest"
+    },
+    {
+        "id":  "P366",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bram"
+    },
+    {
+        "id":  "P367",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Castelnaudary"
+    },
+    {
+        "id":  "P368",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Villefranche‑de‑Lauragais"
+    },
+    {
+        "id":  "P369",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Nailloux"
+    },
+    {
+        "id":  "P370",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mazères‑Saverdun"
+    },
+    {
+        "id":  "P371",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Péage de Pamiers"
+    },
+    {
+        "id":  "P372",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Pamiers Nord"
+    },
+    {
+        "id":  "P373",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Pamiers Sud"
+    },
+    {
+        "id":  "P374",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montgiscard"
+    },
+    {
+        "id":  "P375",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Toulouse sud/ouest"
+    },
+    {
+        "id":  "P376",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Palays"
+    },
+    {
+        "id":  "P377",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Toulouse sud/est"
+    },
+    {
+        "id":  "P378",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montaudran"
+    },
+    {
+        "id":  "P379",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lasbordes"
+    },
+    {
+        "id":  "P380",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Soupetard"
+    },
+    {
+        "id":  "P381",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Roseraie"
+    },
+    {
+        "id":  "P382",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Croix Daurade"
+    },
+    {
+        "id":  "P383",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Borderouge"
+    },
+    {
+        "id":  "P384",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Les Izards"
+    },
+    {
+        "id":  "P385",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montpellier St‑Jean"
+    },
+    {
+        "id":  "P386",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Boulou (système ouvert)"
+    },
+    {
+        "id":  "P387",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lézignan"
+    },
+    {
+        "id":  "P388",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mazères‑Saverdu"
+    },
+    {
+        "id":  "P389",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sesquières"
+    },
+    {
+        "id":  "P390",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Toulouse nord/est"
+    },
+    {
+        "id":  "P391",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Toulouse nord/ouest"
+    },
+    {
+        "id":  "P392",
+        "latitude":  "",
+        "autoroute":  "A9",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Jory"
+    },
+    {
+        "id":  "P393",
+        "latitude":  "",
+        "autoroute":  "A61",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Eurocentre"
+    },
+    {
+        "id":  "P394",
+        "latitude":  "",
+        "autoroute":  "A66",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ZI nord"
+    },
+    {
+        "id":  "P395",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chaumes"
+    },
+    {
+        "id":  "P396",
+        "latitude":  "",
+        "autoroute":  "A68",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Beausoleil"
+    },
+    {
+        "id":  "P397",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sapiac"
+    },
+    {
+        "id":  "P398",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Molle"
+    },
+    {
+        "id":  "P399",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Parages"
+    },
+    {
+        "id":  "P400",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Moulis"
+    },
+    {
+        "id":  "P401",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montauban"
+    },
+    {
+        "id":  "P402",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Agen Ouest"
+    },
+    {
+        "id":  "P403",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Podensac"
+    },
+    {
+        "id":  "P404",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Selve"
+    },
+    {
+        "id":  "P405",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bazas"
+    },
+    {
+        "id":  "P406",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Captieux"
+    },
+    {
+        "id":  "P407",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Roquefort"
+    },
+    {
+        "id":  "P408",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Caloy"
+    },
+    {
+        "id":  "P409",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Aire‑sur‑Adour nord"
+    },
+    {
+        "id":  "P410",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Aire‑sur‑Adour sud"
+    },
+    {
+        "id":  "P411",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Garlin"
+    },
+    {
+        "id":  "P412",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Théze"
+    },
+    {
+        "id":  "P413",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mousserolles"
+    },
+    {
+        "id":  "P414",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mouguerre Bourg"
+    },
+    {
+        "id":  "P415",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mouguerre Elizaberry"
+    },
+    {
+        "id":  "P416",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Briscous"
+    },
+    {
+        "id":  "P417",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Urt"
+    },
+    {
+        "id":  "P418",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Guiche"
+    },
+    {
+        "id":  "P419",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sames"
+    },
+    {
+        "id":  "P420",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Peyrehorade"
+    },
+    {
+        "id":  "P421",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Salies"
+    },
+    {
+        "id":  "P422",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Orthez"
+    },
+    {
+        "id":  "P423",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Artix"
+    },
+    {
+        "id":  "P424",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lescar"
+    },
+    {
+        "id":  "P425",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Pau centre"
+    },
+    {
+        "id":  "P426",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Soumoulou"
+    },
+    {
+        "id":  "P427",
+        "latitude":  "",
+        "autoroute":  "A65",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tarbes ouest"
+    },
+    {
+        "id":  "P428",
+        "latitude":  "",
+        "autoroute":  "A63",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tarbes est"
+    },
+    {
+        "id":  "P429",
+        "latitude":  "",
+        "autoroute":  "A63",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tournay"
+    },
+    {
+        "id":  "P430",
+        "latitude":  "",
+        "autoroute":  "A63",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Capvern"
+    },
+    {
+        "id":  "P431",
+        "latitude":  "",
+        "autoroute":  "A63",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lannemezan"
+    },
+    {
+        "id":  "P432",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montréjeau"
+    },
+    {
+        "id":  "P433",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Gaudens"
+    },
+    {
+        "id":  "P434",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Martory"
+    },
+    {
+        "id":  "P435",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Boussens"
+    },
+    {
+        "id":  "P436",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Martres‑Tolosane"
+    },
+    {
+        "id":  "P437",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Tours centre"
+    },
+    {
+        "id":  "P438",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sainte‑Maure"
+    },
+    {
+        "id":  "P439",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Châtellerault nord"
+    },
+    {
+        "id":  "P440",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Châtellerault sud"
+    },
+    {
+        "id":  "P441",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Futuroscope"
+    },
+    {
+        "id":  "P442",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Poitiers nord"
+    },
+    {
+        "id":  "P443",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Poitiers sud"
+    },
+    {
+        "id":  "P444",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "St‑Maixent‑Soudan"
+    },
+    {
+        "id":  "P445",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Niort est"
+    },
+    {
+        "id":  "P446",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Niort nord"
+    },
+    {
+        "id":  "P447",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Niort ouest"
+    },
+    {
+        "id":  "P448",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Fontenay centre"
+    },
+    {
+        "id":  "P449",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Fontenay ouest"
+    },
+    {
+        "id":  "P450",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sainte‑Hermine"
+    },
+    {
+        "id":  "P451",
+        "latitude":  "",
+        "autoroute":  "A64",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chantonnay"
+    },
+    {
+        "id":  "P452",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Les Essarts"
+    },
+    {
+        "id":  "P453",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Roche‑sur‑Yon ouest"
+    },
+    {
+        "id":  "P454",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Roche‑sur‑Yon sud"
+    },
+    {
+        "id":  "P455",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Roche‑sur‑Yon centre"
+    },
+    {
+        "id":  "P456",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Roche‑sur‑Yon est"
+    },
+    {
+        "id":  "P457",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Péage de La Roche‑sur‑Yon"
+    },
+    {
+        "id":  "P458",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Les Herbiers"
+    },
+    {
+        "id":  "P459",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Verrie"
+    },
+    {
+        "id":  "P460",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cholet sud"
+    },
+    {
+        "id":  "P461",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Cholet nord"
+    },
+    {
+        "id":  "P462",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chemillé"
+    },
+    {
+        "id":  "P463",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Beaulieu‑s‑Layon"
+    },
+    {
+        "id":  "P464",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Thouarcé"
+    },
+    {
+        "id":  "P465",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Mûrs‑Érigné"
+    },
+    {
+        "id":  "P466",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Haute‑Perche"
+    },
+    {
+        "id":  "P467",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Sorges"
+    },
+    {
+        "id":  "P468",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Monnaie"
+    },
+    {
+        "id":  "P469",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Foucaudière"
+    },
+    {
+        "id":  "P470",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Hanipet"
+    },
+    {
+        "id":  "P471",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "RD 347"
+    },
+    {
+        "id":  "P472",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Bouvinerie"
+    },
+    {
+        "id":  "P473",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "RD323"
+    },
+    {
+        "id":  "P474",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Gatignolle"
+    },
+    {
+        "id":  "P475",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montaigu"
+    },
+    {
+        "id":  "P476",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Aigrefeuille"
+    },
+    {
+        "id":  "P477",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Le Bignon"
+    },
+    {
+        "id":  "P478",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Veauchette"
+    },
+    {
+        "id":  "P479",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Montbrison"
+    },
+    {
+        "id":  "P480",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Feurs"
+    },
+    {
+        "id":  "P481",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Balbigny"
+    },
+    {
+        "id":  "P482",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Germain‑Laval"
+    },
+    {
+        "id":  "P483",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Noirétable"
+    },
+    {
+        "id":  "P484",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Thiers est"
+    },
+    {
+        "id":  "P485",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Thiers ouest"
+    },
+    {
+        "id":  "P486",
+        "latitude":  "",
+        "autoroute":  "A87",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Lezoux"
+    },
+    {
+        "id":  "P487",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Martres‑d’Artière"
+    },
+    {
+        "id":  "P488",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Clermont‑Ferrand"
+    },
+    {
+        "id":  "P489",
+        "latitude":  "",
+        "autoroute":  "A11",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Gerzat"
+    },
+    {
+        "id":  "P490",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bourges"
+    },
+    {
+        "id":  "P491",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vierzon"
+    },
+    {
+        "id":  "P492",
+        "latitude":  "",
+        "autoroute":  "A83",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Villefranche‑sur‑Cher"
+    },
+    {
+        "id":  "P493",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Chémery"
+    },
+    {
+        "id":  "P494",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Saint‑Romain‑sur‑Cher"
+    },
+    {
+        "id":  "P495",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bléré"
+    },
+    {
+        "id":  "P496",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Restigné"
+    },
+    {
+        "id":  "P497",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Beaufort‑en‑Vallée"
+    },
+    {
+        "id":  "P498",
+        "latitude":  "",
+        "autoroute":  "A837",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Longué"
+    },
+    {
+        "id":  "P499",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vivy‑Saumur"
+    },
+    {
+        "id":  "P500",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Bourgueil"
+    },
+    {
+        "id":  "P501",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Corzé"
+    },
+    {
+        "id":  "P502",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Pellouailles‑les‑Vignes"
+    },
+    {
+        "id":  "P503",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Joué‑en‑Charnie"
+    },
+    {
+        "id":  "P504",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Vaiges"
+    },
+    {
+        "id":  "P505",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Laval est"
+    },
+    {
+        "id":  "P506",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "Laval ouest"
+    },
+    {
+        "id":  "P507",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "La Gravelle"
+    },
+    {
+        "id":  "P508",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LE HAVRE N°5 / A131"
+    },
+    {
+        "id":  "P509",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST-ROMAIN-DE-COLBOSC N°6"
+    },
+    {
+        "id":  "P510",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOLBEC N°7"
+    },
+    {
+        "id":  "P511",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "FECAMP N°8"
+    },
+    {
+        "id":  "P512",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "YVETOT / A150"
+    },
+    {
+        "id":  "P513",
+        "latitude":  "",
+        "autoroute":  "A62",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "YERVILLE N°9"
+    },
+    {
+        "id":  "P514",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEAUT"
+    },
+    {
+        "id":  "P515",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "ST-SAËNS N°10 / A28"
+    },
+    {
+        "id":  "P516",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CAEN A13"
+    },
+    {
+        "id":  "P517",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CAGNY (A813)"
+    },
+    {
+        "id":  "P518",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TROARN N°31"
+    },
+    {
+        "id":  "P519",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "DOZULÉ N°30"
+    },
+    {
+        "id":  "P520",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA HAIE-TONDUE N°29"
+    },
+    {
+        "id":  "P521",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PONT L\u0027ÉVÊQUE, DEAUVILLE"
+    },
+    {
+        "id":  "P522",
+        "latitude":  "",
+        "autoroute":  "A20",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "LA LA RIVIÈRE-SAINT-SAUVEUR N°3 (A29)"
+    },
+    {
+        "id":  "P523",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "PLATEAU N°2 (A29)"
+    },
+    {
+        "id":  "P524",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHENARD"
+    },
+    {
+        "id":  "P525",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BEUZEVILLE"
+    },
+    {
+        "id":  "P526",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TOUTAINVILLE"
+    },
+    {
+        "id":  "P527",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "TANCARVILLE"
+    },
+    {
+        "id":  "P528",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOURNEVILLE"
+    },
+    {
+        "id":  "P529",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BOURG-ACHARD"
+    },
+    {
+        "id":  "P530",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CRIQUEBEUF N°20 à MAISON-BRÛLEE N°24 / ROUEN LES ESSARTS (A139)"
+    },
+    {
+        "id":  "P531",
+        "latitude":  "",
+        "autoroute":  "A89",
+        "reseau":  "VINCI",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "NCARVILLE"
+    },
+    {
+        "id":  "P532",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "HEUDEBOUVILLE"
+    },
+    {
+        "id":  "P533",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "CHAUFOUR N°15 à GAILLON N°17"
+    },
+    {
+        "id":  "P534",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BONNIÈRES-SUR-SEINE"
+    },
+    {
+        "id":  "P535",
+        "latitude":  "",
+        "autoroute":  "A72",
+        "reseau":  "APRR",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "POISSY"
+    },
+    {
+        "id":  "P536",
+        "latitude":  "",
+        "autoroute":  "A10",
+        "reseau":  "COFFIROUTE",
+        "ville":  "",
+        "longitude":  "",
+        "nom":  "BLOIS"
+    }
+]
