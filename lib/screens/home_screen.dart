@@ -3,6 +3,8 @@ import 'package:google_fonts/google_fonts.dart';
 import '../services/toll_data_service.dart';
 import '../models/optimized_route.dart';
 import 'location_selection_screen.dart';
+import 'toll_gate_map_screen.dart';
+import 'overpass_api_test_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -211,6 +213,63 @@ class _HomeScreenState extends State<HomeScreen> {
                         fontSize: 16,
                         color: Colors.white.withOpacity(0.9),
                       ),
+                    ),
+                    const SizedBox(height: 16),
+                    // Boutons pour OpenStreetMap
+                    Row(
+                      children: [
+                        Expanded(
+                          child: ElevatedButton.icon(
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const TollGateMapScreen(),
+                                ),
+                              );
+                            },
+                            icon: const Icon(Icons.map, size: 18),
+                            label: const Text(
+                              'Carte OSM',
+                              style: TextStyle(fontSize: 13),
+                            ),
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: Colors.white,
+                              foregroundColor: const Color(0xFF1976D2),
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: ElevatedButton.icon(
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const OverpassApiTestScreen(),
+                                ),
+                              );
+                            },
+                            icon: const Icon(Icons.api, size: 18),
+                            label: const Text(
+                              'API Test',
+                              style: TextStyle(fontSize: 13),
+                            ),
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: Colors.white,
+                              foregroundColor: Colors.green[700],
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ],
                     ),
                   ],
                 ),
